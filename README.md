@@ -1,0 +1,1 @@
+For this project i will be creating an entire web page from the ground up. I will be using all the information i have learned from the odin project to complete this task as well doing some of my own research through the web.
