@@ -38,7 +38,13 @@ a{
 
  .container-one{
     background-color: #1f2937;
-    padding: 10px 70px 60px 70px
+    padding: 10px 70px 60px 70px;
+    display: flex;
+    
+}
+
+.hero{
+    width: 400px;
 }
 
 .container-two{
