@@ -14,8 +14,6 @@ body{
  .logo{
     color: white;
     font-size: 24px;
-
-
  }
 
 .header-links{
@@ -28,7 +26,6 @@ body{
 a{
     text-decoration: none;
     color: white;
-
 }
 
 .header,
@@ -40,11 +37,23 @@ a{
     background-color: #1f2937;
     padding: 10px 70px 60px 70px;
     display: flex;
-    
+}
+
+h1{
+    font-weight: 900;
+    font-size: 48px;
+}
+
+button{
+    background-color: #3882f6;
+    border-radius: 12px;
+    color: white;
 }
 
 .hero{
     width: 400px;
+    color:white;
+    font-size: 18px;
 }
 
 .container-two{
@@ -60,4 +69,10 @@ a{
 .container-four{
     background-color: white;
     padding: 10px 70px 60px 70px
+}
+
+img {
+    max-height: 300px;
+    max-width: 300px;
+    margin: auto;
 }
