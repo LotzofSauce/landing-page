@@ -44,7 +44,7 @@ h1{
     font-size: 48px;
 }
 
-button{
+.callToAction{
     background-color: #3882f6;
     border-radius: 12px;
     color: white;
