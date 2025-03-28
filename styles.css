@@ -3,13 +3,13 @@ body{
     display: flex;
     flex-direction: column;
     margin: 0;
-    padding:
+    flex: 1;
 }
 
 .header{
     display: flex;
     justify-content: space-between;
-    padding: 10px 70px 60px 70px
+    padding: 30px 70px 60px 70px
 }
  .logo{
     color: white;
@@ -46,7 +46,7 @@ h1{
 
 .callToAction{
     background-color: #3882f6;
-    border-radius: 12px;
+    border-radius: 7px;
     color: white;
 }
 
@@ -72,7 +72,8 @@ h1{
 }
 
 img {
-    max-height: 300px;
-    max-width: 300px;
+    max-height: 400px;
+    max-width: 700px;
     margin: auto;
+    padding: 20px;
 }
