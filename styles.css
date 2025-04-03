@@ -58,7 +58,9 @@ h1{
 
 .container-two{
     background-color: white;
-    padding: 10px 70px 60px 70px
+    padding: 10px 70px 60px 70px;
+    display: flex;
+    justify-content: center;
 }
 
 .container-three{
@@ -83,4 +85,6 @@ img {
     text-align: center;
     color: #1f2937;
     font-weight: 900;
+    padding-top: 20px;
 }
+
